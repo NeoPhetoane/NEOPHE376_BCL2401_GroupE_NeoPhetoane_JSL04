@@ -1,36 +1,27 @@
-# [JSL04] Submission: Monster Ternary Operator
+### Overview
 
-You will:
-1. Use the provided Starter Code Repository.
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL04] Submission Project Tab.
+This project consists of five challenges using ternary operators to help Monster consumers to decide what kind they like and when it is best for them to have it. These operators provide an easily readable version of conditional statements.
 
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/p9bvd5QH3
+### Reflections
 
-**Challenge Scenario:** In this coding exercise, you will work with the Monster Ternary Operator. You'll use ternary operators to make decisions based on various scenarios involving Monster Energy drinks.
+#### Areas of Mastery
 
-In each of these challenges, the ternary operator is used to decide between two options based on a condition, demonstrating its utility for concise conditional logic. Remember that while ternaries can make the code more succinct, they should be used judiciously to maintain readability, especially for more complex conditions.
+If/else statements: Since ternary operations are a simplified version of if/else statements, this exercise allowed me to practise if/else statements more in order to be able to efficiently create ternary operators.
 
-## What You Need to Do:
+Ternary operator syntax: I was able to get a firm grasp on how ternary operators are written, in terms of using the question mark(?) to instruct the runner to check the code and the : to declare the options.
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_JSL04 
-2. Open the cloned project in your code editor.
-3. Code your solution for each of the challenges as per the provided instructions.
-4. Commit your changes to your local Git repository with meaningful commit messages.
-5. Push your local Git repository to your GitHub account.
-6. Verify that the changes have been successfully pushed to your GitHub repository.
+Ternary operators in different instances: I was able to use the operators with numbers and strings.
 
-## What You Need to Include:
+#### Challenges Faced
 
-1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
-2. Your GitHub repository should contain the updated code files.
+In this project, I did not experience any significant challenges but one that stood out was mentioned in my areas of mastery and that was syntax. I would often forget to add brackets to avoid clashes with the curly braces to the function when using the if/else to practise. For example if (userPreference === Sugar-free). The console would often give me an error because of the mistake.
 
-## How We'll Assess Your Work:
+#### Areas for Improvement
 
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. Successful completion of the project will involve implementing the ternary logic as per the provided instructions.
-4. We will consider the commit history and meaningful commit messages to evaluate your coding process.
+More efficient use: For this project, I often needed the if/else statements in order to determine what information the ternary operators would require. Therefore further practice will allow me the ability to use the ternary operators without if/else statements.
 
-Please follow the provided steps and guidelines to complete the Monster Ternary Operator challenge effectively. Your ability to use ternary operators for conditional logic is a valuable skill, and we look forward to reviewing your work.
+Exploring: I would like to look further into what ternary operators can do in code.
+
+#### Overall Learning Experience
+
+All in all, this project was a valuable practice opportunity. It took me back to conditional statements and helped me understand them better. It also gave me new insight into ternary operators which are a more efficient, simpler and easier to read version of conditional statements.
